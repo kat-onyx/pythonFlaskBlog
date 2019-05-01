@@ -1,5 +1,5 @@
 # pythonFlaskBlog
 
-**Technologies
-Python
-Flask
+## Technologies
+* Python
+* Flask
